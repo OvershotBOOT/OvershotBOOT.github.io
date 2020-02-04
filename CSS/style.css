@@ -1,0 +1,25 @@
+body {
+    background-color: mediumseagreen;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header {
+    text-align: center;
+    background-color: #333333;
+    margin: 10px 0;
+    padding: 20px;
+    color: #eeeeee
+}
+.wrapper {
+    margin: 0 auto;
+    border: solid;
+    height: 500px;
+    width: 800px;
+    background-color: #333333;
+    color: #eeeeee;
+}
+.sideBar {
+    float: right;
+}
