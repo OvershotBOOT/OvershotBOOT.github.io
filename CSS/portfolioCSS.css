@@ -1,0 +1,32 @@
+body {
+    background-color: mediumseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav {
+    border: solid;
+    background-color: #333333;
+    color: #eeeeee;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container {
+    background-color: #eeeeee;
+    border: solid;
+    color: #333333;
+    width: 50vw;
+    height: auto;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+.cat-mouse {
+    display: inline-block;
+    width: 47vw;
+    height: 30vh;
+    margin: 0 auto;
+    padding: 0 0;
+    border: solid;
+    color: #333333;
+}
